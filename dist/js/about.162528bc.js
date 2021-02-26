@@ -1,0 +1,2 @@
+(self["webpackChunkme_vue"]=self["webpackChunkme_vue"]||[]).push([[443],{9211:function(e,u,n){"use strict";n.r(u),n.d(u,{default:function(){return i}});var t=n(5393),a={class:"about"},r=(0,t.Wm)("h1",null,"This is an about page",-1);function s(e,u){return(0,t.wg)(),(0,t.j4)("div",a,[r])}const c={};c.render=s;var i=c}}]);
+//# sourceMappingURL=about.162528bc.js.map
