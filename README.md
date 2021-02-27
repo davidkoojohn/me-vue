@@ -17,3 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+[comment]: <> (pre-push-hook)
+[comment]: <> (chmod u+x pre-push)
