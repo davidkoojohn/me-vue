@@ -6,8 +6,6 @@ on:
   push:
     branches:
       - master
-  schedule:
-    - cron: "0 */10 * * *"
 jobs:
   build-and-deploy:
     # 服务器环境：最新版 Ubuntu
