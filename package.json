@@ -6,7 +6,8 @@
     "dev": "npm run serve",
     "start": "npm run serve",
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build"
+    "build": "vue-cli-service build",
+    "deploy": "./deploy.sh"
   },
   "dependencies": {
     "core-js": "^3.8.3",
