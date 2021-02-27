@@ -1,7 +1,0 @@
-set -e
-
-echo 'Deploy'
-
-./deploy.sh
-
-echo 'Pre-Push End'
